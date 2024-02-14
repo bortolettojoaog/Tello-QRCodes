@@ -1,0 +1,9 @@
+numpy
+matplotlib
+cv2
+imutils
+uuid
+csv
+json
+djitellopy
+pyzbar
